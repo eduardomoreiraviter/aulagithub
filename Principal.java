@@ -9,10 +9,14 @@ public class Principal {
 
 
         //ultimo commit
-        System.out.println("Ultimo commit");
+        System.out.println("Ultimo commit.");
 
-        //demo commit um
-        System.out.println("primeiro commit demo.");
+        //demo commit
+        System.out.println("Primeiro commit demo.");
+
+        //ultimo commit demo
+        System.out.println("Segundo commit demo.");
+
 
     }
 }
